@@ -9,7 +9,7 @@ cargo add telegram-api
 ```
 
 Example usage:
-```
+```rust
 use telegram_api::{Bot, SendMessageRequest, TelegramError};
 
 // Example usage:
