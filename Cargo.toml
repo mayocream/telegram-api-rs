@@ -1,9 +1,11 @@
 [package]
 name = "telegram-api"
 description = "Telegram Bot API library"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "Apache-2.0"
+repository = "https://github.com/mayocream/telegram-api"
+readme = "README.md"
 
 [dependencies]
 reqwest = { version = "0.12.12", features = ["json"] }
