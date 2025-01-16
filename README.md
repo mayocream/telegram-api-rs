@@ -1,2 +1,2 @@
-# telegram-bot-rs
+# telegram-api-rs
 Telegram Bot API in Rust.

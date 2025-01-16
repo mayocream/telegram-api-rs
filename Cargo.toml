@@ -1,5 +1,5 @@
 [package]
-name = "telegram-bot"
+name = "telegram-api"
 description = "Telegram Bot API library"
 version = "0.1.0"
 edition = "2021"
